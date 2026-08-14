@@ -7,9 +7,6 @@
   "discipline": "chemistry",
   "courseContext": {},
   "license": "CC-BY-4.0",
-  "unitTerm": "unit",
-  "theme": "light-neat-3",
-  "createdAt": "2026-08-10T18:54:17.290Z",
   "publicRepo": {
     "owner": "Liz2728",
     "name": "open-textbook-workshop-hfn1yjw7-oer"
@@ -17,5 +14,18 @@
   "privateRepo": {
     "owner": "Liz2728",
     "name": "open-textbook-workshop-hfn1yjw7-private"
-  }
+  },
+  "unitTerm": "unit",
+  "theme": "light-neat-3",
+  "createdAt": "2026-08-10T18:54:17.290Z",
+  "chapters": [
+    {
+      "slug": "01-getting-started",
+      "title": "Open Textbook Workshop"
+    },
+    {
+      "slug": "supportforoer",
+      "title": "18 Support for OER"
+    }
+  ]
 }
